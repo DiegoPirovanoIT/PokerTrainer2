@@ -2,7 +2,7 @@ name: Deploy React Site
 
 on:
   push:
-    branches: ["main"] # Esegue il deploy ogni volta che fai push su main
+    branches: ["main", "master"] # Accetta sia main che master
 
 permissions:
   contents: read
