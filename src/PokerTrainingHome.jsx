@@ -96,7 +96,7 @@ const PokerTrainingHome = () => {
       {/* Navigation */}
       <nav className="flex justify-between items-center px-8 py-6 absolute w-full z-50">
         <div className="text-2xl font-black tracking-tighter italic text-emerald-500">
-          POKER<span className="text-white">LAB</span>
+          POKER<span className="text-white">TRAINER2</span>
         </div>
 
         <button
@@ -118,7 +118,7 @@ const PokerTrainingHome = () => {
           <div className="absolute inset-0 bg-gradient-to-t from-slate-950 via-slate-950/60 to-transparent" />
         </div>
 
-        <div className="relative z-10 text-center px-4 max-w-4x1">
+        <div className="relative z-10 text-center px-4 max-w-4xl pt-24">
           <div className="inline-block mb-4 px-4 py-1 border border-emerald-500/30 rounded-full bg-emerald-500/10">
             <span className="text-emerald-400 font-bold tracking-[0.2em] uppercase text-xs">
               The Ultimate (free) Training Ground
@@ -126,9 +126,9 @@ const PokerTrainingHome = () => {
           </div>
 
           <h1 className="text-6xl md:text-8xl font-black mb-6 tracking-tight leading-none">
-            Stop Guessing. <br />
+            Become the best. <br />
             <span className="text-transparent bg-clip-text bg-gradient-to-r from-emerald-400 to-cyan-400">
-              Start Crushing.
+              For free.
             </span>
           </h1>
 
